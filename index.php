@@ -2,7 +2,6 @@
 
 use Whoops\Run;
 use Whoops\Handler\PrettyPageHandler;
-use Exception;
 
 require __DIR__ . '/vendor/autoload.php';
 
